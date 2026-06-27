@@ -33,15 +33,6 @@ Through this assignment I learned how to:
 - Perform basic data analysis
 - Use indexing and filtering efficiently
 
-## Future Improvements
 
-As I continue learning data analysis, I plan to build projects involving:
-
-- Real-world datasets
-- Data visualization with Matplotlib and Seaborn
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-
----
 
 This project is part of my journey into bioinformatics and data science.
